@@ -1,7 +1,7 @@
 # Amazon Book Reviews Analysis
 
 ## Overview
-This project aims to securely manage, streamline, and perform analysis on structured and semi-structured Amazon book reviews data based on various metrics.
+This project aims to securely manage, streamline, and perform analysis on structured Amazon book reviews data based on various metrics.
 The architecture includes data ingestion with AWS Lambda, ETL processing with AWS Glue, storage in Amazon S3, querying with AWS Athena, and visualization with Amazon QuickSight.
 
 ## Project Goals
